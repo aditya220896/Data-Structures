@@ -62,10 +62,4 @@ int main () {
 
     employee1.AskForPromotion();
     employee2.AskForPromotion();
-    
-    
-    
-    
-    
-    
 }
